@@ -1,0 +1,3 @@
+[submodule "last_laboratory"]
+	path = last_laboratory
+	url = https://github.com/artem-sergiyovych/last_laboratory.git
